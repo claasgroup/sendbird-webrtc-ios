@@ -15,6 +15,6 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        .binaryTarget(name: "WebRTC", url: "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.6.0-compact/WebRTC.xcframework.zip", checksum: "4133425339e16adf24d19207c574e1740a70b4e84107a2e72efee2b541cd00fa"),
+        .binaryTarget(name: "WebRTC", url: "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.6.1/WebRTC.xcframework.zip", checksum: "5356747071caf9ccea70c2b3a69676dde8cb2995af5d414fb64ca58713e788e6"),
     ]
 )
